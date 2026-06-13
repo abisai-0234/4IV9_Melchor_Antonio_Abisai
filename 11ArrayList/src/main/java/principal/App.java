@@ -6,7 +6,8 @@ package principal;
 
 /**
  *
- * @author demon
+ * @author abisai
+
  */
 public class App {
 
